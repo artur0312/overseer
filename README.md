@@ -5,4 +5,4 @@ A simple chess engine in C++. It uses the alpha-beta prunning algorithm to searc
 # TODO
 - Use bitboards to represent the board.
 
--Implement the UCI protocol to make it communicate with chess GUIs.
+- Implement the UCI protocol to make it communicate with chess GUIs.
